@@ -1,0 +1,3 @@
+Taps (N) = 117
+Scale Q1.15
+DC gain normalized: 1
